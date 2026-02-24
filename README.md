@@ -3,6 +3,8 @@
 **Objetivo**  
 Provisionei uma VM **Ubuntu 20.04** no Azure com **VNet**, **Subnet**, **Public IP** e **NSG**. Este repositório contém templates, scripts e evidências (outputs e imagens) para reproduzir, validar e documentar o lab.
 
+![Capa do Projeto](images/AzureVMLab.png)
+
 ## Pré-requisitos e variáveis recomendadas
 
 ## Pré-requisitos
