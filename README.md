@@ -5,8 +5,6 @@ Provisionei uma VM **Ubuntu 20.04** no Azure com **VNet**, **Subnet**, **Public 
 
 ![Capa do Projeto](AzureVMLab.png)
 
-## Pré-requisitos e variáveis recomendadas
-
 ## Pré-requisitos
 
 - Azure subscription (ou usar placeholders)
