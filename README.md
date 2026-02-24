@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# azure-vm-lab
 
 **Objetivo**  
@@ -158,3 +159,7 @@ Inclua `outputs/cost.txt` com os cálculos e a **data** da verificação. Prefer
 
 **Observação final**  
 Mantenha `templates/README-template.md` como documento mestre e `README.md` na raiz como a versão executável e enxuta. Substitua placeholders por evidências reais assim que tiver acesso à subscription e documente qualquer divergência.
+=======
+# azure-vm-lab
+Projeto de laboratório: provisionamento de VM no Azure (Ubuntu 22.04). Inclui scripts, template CLI e evidências para entrega DIO.
+>>>>>>> b8c0ee74904c71c65d35d4ae9b058a54ea3d4bd7
