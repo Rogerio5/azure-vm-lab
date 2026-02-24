@@ -1,0 +1,18 @@
+﻿# Generated: 2026-02-24T03:30:03Z (UTC)
+# Arquivo: outputs/cost.txt
+# Observação: ajuste a variável \0.0531 no script se a tarifa for diferente.
+
+**Tarifa por hora (BRL):** 0.0531 BRL/hr
+
+**Cálculos**
+- Custo diário (24h): 0.0531 * 24 = 1.2744 BRL/dia
+- Custo mensal (30 dias): 1.2744 * 30 = 38.232 BRL/mês
+- Custo mensal (31 dias): 1.2744 * 31 = 39.5064 BRL/mês
+- Custo mensal média (anualizado): 38.763 BRL/mês
+
+**Exemplo de uso**
+- Para estimar custo de 10 horas/dia por 30 dias: 10 * 0.0531 * 30 = 15.93 BRL
+
+**Notas**
+- Valores são estimativas; para valores oficiais consulte o Portal do Azure (Billing) e substitua aqui o valor real.
+- Se usar VMs com tamanhos diferentes ou recursos adicionais (discos, IPs estáticos, snapshots), some os custos correspondentes.

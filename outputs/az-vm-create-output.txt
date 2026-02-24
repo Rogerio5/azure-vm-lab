@@ -1,0 +1,3 @@
+Name                 ResourceGroup     Location    VM Size       ProvisioningState   Public IP
+-------------------  ----------------  ----------  ------------  ------------------  -------------
+vm-devops-na-infra   devops-na-infra   eastus      Standard_B1s  Succeeded           172.203.208.189

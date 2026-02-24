@@ -1,0 +1,3 @@
+﻿Name             Location    Status
+---------------  ----------  ----------
+devops-na-infra  eastus      Succeeded
