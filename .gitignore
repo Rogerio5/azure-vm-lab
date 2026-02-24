@@ -1,0 +1,7 @@
+﻿.vscode/
+id_rsa
+id_rsa.pub
+outputs/
+images/
+*.log
+*.env
