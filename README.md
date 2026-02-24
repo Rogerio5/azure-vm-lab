@@ -150,11 +150,11 @@ Inclua `outputs/cost.txt` com os cálculos e a **data** da verificação. Prefer
 
 ---
 
-## Referências e contato
+## Contato
 
 - **Autor:** rogerio  
 - **Data:** 2026-02-24  
-- **Tutorial base / referência:** inclua link e timestamp do vídeo/artigo usado (se aplicável)
+
 
 ---
 
@@ -162,4 +162,4 @@ Inclua `outputs/cost.txt` com os cálculos e a **data** da verificação. Prefer
 Mantenha `templates/README-template.md` como documento mestre e `README.md` na raiz como a versão executável e enxuta. Substitua placeholders por evidências reais assim que tiver acesso à subscription e documente qualquer divergência.
 
 Projeto de laboratório: provisionamento de VM no Azure (Ubuntu 22.04). Inclui scripts, template CLI e evidências para entrega DIO.
-b8c0ee74904c71c65d35d4ae9b058a54ea3d4bd7
+
